@@ -39,17 +39,17 @@ const reviewsSlider = new Swiper('.reviews-slider', {
 $("#review-1").on('click', function() {
   $.fancybox.open([
     {
-      src  : '../img/fancybox/fancybox1.jpg',
+      src  : './img/fancybox/fancybox1.jpg',
       opts : {
         caption : 'Первый букет',
-        thumb   : '../img/fancybox/fancybox1.jpg'
+        thumb   : './img/fancybox/fancybox1.jpg'
       }
     },
     {
-      src  : '../img/fancybox/fancybox2.jpg',
+      src  : './img/fancybox/fancybox2.jpg',
       opts : {
         caption : 'Второй букет',
-        thumb   : '../img/fancybox/fancybox2.jpg'
+        thumb   : './img/fancybox/fancybox2.jpg'
       }
     }
   ], {
