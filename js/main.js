@@ -61,10 +61,10 @@ $("#review-1").on('click', function() {
 $("#review-2").on('click', function() {
   $.fancybox.open([
     {
-      src  : '../img/fancybox/fancybox3.jpg',
+      src  : './img/fancybox/fancybox3.jpg',
       opts : {
         caption : 'Первый букет',
-        thumb   : '../img/fancybox/fancybox3.jpg'
+        thumb   : './img/fancybox/fancybox3.jpg'
       }
     },
     {
