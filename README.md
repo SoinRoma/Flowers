@@ -5,6 +5,8 @@
 + Магазин для выбора цветов
 + Адаптивная верстка
 + Bootstrap4
++ Модальные окна
++ Fancybox
 
 ## Используемые технологии
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)
