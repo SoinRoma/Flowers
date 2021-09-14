@@ -68,10 +68,10 @@ $("#review-2").on('click', function() {
       }
     },
     {
-      src  : '../img/fancybox/fancybox4.jpg',
+      src  : './img/fancybox/fancybox4.jpg',
       opts : {
         caption : 'Второй букет',
-        thumb   : '../img/fancybox/fancybox4.jpg'
+        thumb   : './img/fancybox/fancybox4.jpg'
       }
     }
   ], {
