@@ -13,8 +13,3 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-black?style=flat-square&logo=bootstrap&logoColor=bootstrap)
 ![FancyBox](https://img.shields.io/badge/-FancyBox-black?style=flat-square&logo=fancybox&logoColor=fancybox)
 ![Slider](https://img.shields.io/badge/-Slider-black?style=flat-square&logo=slider&logoColor=slider)
-
-### Запуск проекта
-```
-Разархивировать проект и запустить в IDE
-```
